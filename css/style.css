@@ -1,0 +1,148 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+h1{
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento',cursive;
+  }
+h2{
+  color: #66BFBF;
+  font-family: 'Montserrat',sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+h3{
+  color: #11999E;
+  font-family: 'Montserrat',sans-serif;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  height: 0;
+  border-color: grey;
+  border-width: 10px;
+  width: 6%;
+  margin: 100px auto;
+}
+p{
+  line-height: 2;
+}
+a{
+  text-decoration:none;
+  font-family: 'Montserrat',sans-serif;
+  color: #11999E;
+
+}
+a:hover{
+  color: #EAF6F6;
+}
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+  margin: 100px 0;
+
+}
+.bottom-container{
+  background-color: #66BFBF;
+  width: 100%;
+  height: 163px;
+
+}
+.intro{
+  width: 20%;
+  margin: auto;
+}
+.contactmesg{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.top-cloud{
+  position: absolute;
+  right: 615px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 633px;
+  bottom: 322px;
+}
+.weightliftingpic{
+  width: 25%;
+  float: right;
+  margin-right: auto;
+
+
+
+}
+.profilepic1{
+  height: 200px;
+  width: 200px;
+  margin-top: 20px;
+}
+.footer-link{
+  color: #11999E;
+  position: relative;
+  top: 46px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  overflow: auto;
+
+}
+.codingpic{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.webinfo {
+    width: 20%;
+    position: absolute;
+    right: 776px;
+    top: 1683px;
+}
+.exerciseinfo{
+    position: absolute;
+    right: 717px;
+    width: 20%
+}
+.copyrightinfo{
+  position: relative;
+  top: 56px;
+  color: #EAF6F6;
+}
+.btn {
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+  background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat',sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
